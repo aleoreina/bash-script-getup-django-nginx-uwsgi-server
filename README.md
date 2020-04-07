@@ -2,8 +2,9 @@
 #### No pay more
 
 # Purpose
-Begginers no must be pay to get Django + Nginx + Uwsgi with multiple sites support.
-Experts or Beginners can use it code to deploy his project.
+1) Begginers no must be pay to get Django + Nginx + Uwsgi with multiple sites support.
+2) Experts or Beginners can use it code to deploy his project.
+3) Begineers or Expert help himself/herself to get always a stable script for his own use.
 
 ## Just a put give me a star to say Thank you!
 
