@@ -1,7 +1,7 @@
 # Bash script to get up Django + Nginx + uwsgi (with multiple sites support)
 #### No pay more
 
-# Propurse
+# Purpose
 Begginers no must be pay to get Django + Nginx + Uwsgi with multiple sites support.
 Experts or Beginners can use it code to deploy his project.
 
